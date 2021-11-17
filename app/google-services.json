@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "137051114124",
+    "project_id": "ml-kit-test-ekbana",
+    "storage_bucket": "ml-kit-test-ekbana.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137051114124:android:3d2ba9c8fad02c362bc9a9",
+        "android_client_info": {
+          "package_name": "com.example.facedetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137051114124-kjp7b2bmpo2ocf8bui7tohrnieqomfvt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy-H8zHjpXNrL7H9tnLlfrUBt9FhIV_9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137051114124-kjp7b2bmpo2ocf8bui7tohrnieqomfvt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137051114124:android:39655fe553a3dea32bc9a9",
+        "android_client_info": {
+          "package_name": "com.example.faceexpression"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137051114124-kjp7b2bmpo2ocf8bui7tohrnieqomfvt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy-H8zHjpXNrL7H9tnLlfrUBt9FhIV_9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137051114124-kjp7b2bmpo2ocf8bui7tohrnieqomfvt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
